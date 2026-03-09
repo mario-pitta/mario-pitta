@@ -84,6 +84,10 @@
 
 ###
 
+## 📊 Minhas Estatísticas do GitHub
+
+![Metrics](https://raw.githubusercontent.com/gist/Ev357/17d9fc0cbccd58aea20b392de2d88eba/raw/aa5379c97b7f1bf89105f0960fafdb389cdbd70e/github-metrics.svg)
+
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=mario-pitta&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dark&locale=en&hide_border=false&order=1&custom_title=Stats" height="250" alt="stats graph"  />
   <img src="https://streak-stats.demolab.com?user=mario-pitta&locale=en&mode=daily&theme=dark&hide_border=false&border_radius=5&order=3" height="220" alt="streak graph"  />
